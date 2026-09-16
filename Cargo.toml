@@ -1,0 +1,9 @@
+[package]
+name = "repro-miniquad"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Pinned to the exact version reported against in the bug report
+# (used by macroquad 0.4.16).
+miniquad = "0.4.11"
