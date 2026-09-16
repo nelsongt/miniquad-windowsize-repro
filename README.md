@@ -10,7 +10,7 @@ Minimal reproduction for two miniquad window bugs, reported against
 Reproduced with KWin (KDE Plasma) on an X11 session and on a Wayland
 session (XWayland client).
 
-Issue: [link to issue (tbd)]
+Issue: [[link to issue](https://github.com/not-fl3/miniquad/issues/667)]
 
 ## Running
 
